@@ -4,8 +4,9 @@ public class Persona {
     int edad;
 
     int apellido;
+    
+    String nombre;
+    String apewllido;
 
-    String nombre = "";
-
-
+    
 }
